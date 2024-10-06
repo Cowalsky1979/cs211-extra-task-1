@@ -13,21 +13,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "extra-task-1.cpp",
-              "DocumentMoniker": "C:\\Users\\79515\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043E\u0441\u043D\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\bonus 1\\cs211-extra-task-1\\extra-task-1.cpp",
-              "RelativeDocumentMoniker": "..\\extra-task-1.cpp",
-              "ToolTip": "C:\\Users\\79515\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043E\u0441\u043D\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\bonus 1\\cs211-extra-task-1\\extra-task-1.cpp",
-              "RelativeToolTip": "..\\extra-task-1.cpp",
-              "ViewState": "AQIAAKgAAAAAAAAAAAAAADMAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-06T17:27:26.872Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
@@ -39,6 +26,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "extra-task-1.cpp",
+              "DocumentMoniker": "C:\\Users\\79515\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043E\u0441\u043D\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\bonus 1\\cs211-extra-task-1\\extra-task-1.cpp",
+              "RelativeDocumentMoniker": "..\\extra-task-1.cpp",
+              "ToolTip": "C:\\Users\\79515\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043E\u0441\u043D\u043E\u0432\u044B \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\bonus 1\\cs211-extra-task-1\\extra-task-1.cpp",
+              "RelativeToolTip": "..\\extra-task-1.cpp",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAM0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-06T17:27:26.872Z",
+              "EditorCaption": ""
             }
           ]
         }
